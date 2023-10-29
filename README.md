@@ -6,7 +6,7 @@
 
 <p>
   I made this template for people don't have time to make their website for thier bot's .
-  This is a NORMAl TEMPLATE and it does not contain Dashboard Page or 404 .
+  This is a NORMAL TEMPLATE and it does not contain Dashboard Page or 404 .
 </p>
 
 ## Can I get support for this template?
