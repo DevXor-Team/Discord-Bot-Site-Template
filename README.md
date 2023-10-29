@@ -32,4 +32,4 @@
   Bootstrap
 </p>
 
-### ALL COPYRIGHTS RESEVED TO devM7MD & Developer Tools
+### ALL COPYRIGHTS RECEIVED TO devM7MD & Developer Tools
