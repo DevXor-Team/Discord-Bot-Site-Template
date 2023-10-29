@@ -1,1 +1,33 @@
 # Discord-Bot-Site-Template
+
+## Why I made this template?
+
+<p>
+  I made this template for people don't have time to make their website for thier bot's .
+  This is a NORMAl TEMPLATE and it does not contain Dashboard Page or 404 .
+</p>
+
+## Can I get support for this template?
+
+<p>
+  Of course you can get support for this template in <a href="https://discord.gg/devtools-931536214228611102">Developer Tools Discord Server</a>
+</p>
+
+## If this is the final template?
+
+<p>
+  No, this is not the final template and also the idea of this template took from other template .
+  In soon I will make new templates ... coming soon!
+</p>
+
+## How you made this template?
+
+<p>
+  This template made using
+  HTML
+  CSS
+  JavaScript
+  Bootstrap
+</p>
+
+### ALL COPYRIGHTS RESEVED TO devM7MD & Developer Tools
