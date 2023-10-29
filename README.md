@@ -5,7 +5,7 @@
 ## Why I made this template?
 
 <p>
-  I made this template for people don't have time to make their website for thier bot's .
+  I made this template for people don't have time to make their website for their bot's .
   This is a NORMAL TEMPLATE and it does not contain Dashboard Page or 404 .
 </p>
 
