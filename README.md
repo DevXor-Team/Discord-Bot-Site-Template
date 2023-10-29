@@ -1,3 +1,4 @@
+<img src="https://media.discordapp.net/attachments/1152557082638299217/1168076653205917738/Grey_minimalist_business_project_presentation_5.png?ex=65507327&is=653dfe27&hm=0f4e2084a390b302d606640c972cb0c3f426daf99e0d47275fcfb0226c2f780e&=&width=1104&height=621"/>
 # Discord-Bot-Site-Template
 
 ## Why I made this template?
